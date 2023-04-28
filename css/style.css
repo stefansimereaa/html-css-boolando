@@ -43,12 +43,12 @@ img{
     justify-content: space-around;
 }
 .link{
-    width: 400px;
+    width: 600px;
     display: flex;
     justify-content: flex-start;
 }
 .navigation-buttons{
-    width: 400px;
+    width: 600px;
     display: flex;
     justify-content: flex-end;
 }
