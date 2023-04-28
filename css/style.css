@@ -30,7 +30,7 @@ header{
     width: 100%;
 
 }
-nav{
+.navigation-menu{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -68,10 +68,57 @@ a{
     padding: 10px;
 }
 
+/*Main content*/
+
+
+
+
+
+/*Footer*/
+footer{
+    background-color: var(--footer);
+    height: 200px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-navigation-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials{
+    width: 300px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.information{
+    width: 1200px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+h3{
+    padding: 15px;
+}
+h4{
+    padding: 10px;
+}
+
 
 
 /*Utils*/
 .container{
-    max-width: 1200px;
+    max-width: 1400px;
+    height: 200px;
     margin: 0 auto;
+    border: dashed 2px black;
 }
