@@ -188,7 +188,7 @@ h5{
     left: 80%;
     cursor: pointer;
 }
-#favourite-change:hover::after{
+.favourite:hover::after{
     color: red;
     content: '\2764';
     background-color: white;
