@@ -104,7 +104,6 @@ footer{
 
 .footer-navigation-menu > * {
     flex-basis: calc(100 / 2);
-    border: dashed white;
 }
 
 .socials{
