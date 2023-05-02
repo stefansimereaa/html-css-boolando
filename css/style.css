@@ -104,7 +104,7 @@ footer{
 }
 
 .information{
-    width: 1500px;
+    width: 1400px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
@@ -122,7 +122,7 @@ h4{
 .container{
     max-width: 1600px;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 150px;
     margin-bottom: 100px;
 }
 .row{
